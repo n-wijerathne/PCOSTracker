@@ -12,21 +12,6 @@ Built as the group mini project for **IT31043 – Mobile Application Development
 
 ---
 
-## 📌 Table of Contents
-
-- [Problem and Solution](#-problem-and-solution)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [My Contribution](#-my-contribution)
-- [Screenshots](#-screenshots)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Testing](#-testing)
-- [Team](#-team)
-- [Limitations and Future Work](#-limitations-and-future-work)
-
----
-
 ## 🩺 Problem and Solution
 
 PCOS affects an estimated 8 to 13% of women of reproductive age, and many cases go undiagnosed. Existing cycle and fitness apps are general purpose and do not connect PCOS symptoms with diet and lifestyle. Patients end up juggling several apps and struggle to give doctors a clear picture of their health.
@@ -97,8 +82,6 @@ Kotlin · Android Activities and Intents · Firebase Authentication · Cloud Fir
 ---
 
 ## 📱 Screenshots
-
-> Add your screenshots to a `screenshots/` folder and update the paths below.
 
 | Login | Personal Information | Privacy Policy | Settings |
 |:---:|:---:|:---:|:---:|
