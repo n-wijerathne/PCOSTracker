@@ -12,6 +12,17 @@ Built as the group mini project for **IT31043 – Mobile Application Development
 
 ---
 
+## 🔗 Project Links
+
+| Resource | Link |
+|---|---|
+| 🎨 **Figma Prototype** | [View the interactive prototype](https://www.figma.com/proto/VGDCrvrkN8t0AcnIZeKjVt/PCOS-Tracker?node-id=90-4275&starting-point-node-id=90%3A4275&show-proto-sidebar=1&t=V5aQYcnyCktFcAhC-1) |
+| 📦 **APK File** | [Download from Google Drive](https://drive.google.com/drive/folders/1hWesLDe2mF_nBRrC_xRRvhxwgpk16bbe?usp=sharing) |
+| 🎥 **Demo Video** | [Watch on Google Drive](https://drive.google.com/drive/folders/1vFheqgqvsqCZLoP59NnT7jPuzTiXiUFM?usp=sharing) |
+| 💻 **GitHub Repository** | [savindirathwella333-create/PCOSTracker](https://github.com/savindirathwella333-create/PCOSTracker) |
+
+---
+
 ## 🩺 Problem and Solution
 
 PCOS affects an estimated 8 to 13% of women of reproductive age, and many cases go undiagnosed. Existing cycle and fitness apps are general purpose and do not connect PCOS symptoms with diet and lifestyle. Patients end up juggling several apps and struggle to give doctors a clear picture of their health.
@@ -113,12 +124,14 @@ Files from my modules: `LoginActivity.kt`, `SignUpActivity.kt`, `PersonalInfoAct
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/PCOSTracker.git
+git clone https://github.com/savindirathwella333-create/PCOSTracker.git
 
 # 2. Open the project in Android Studio and let Gradle sync
 
 # 3. Run on an emulator or a connected device
 ```
+
+Or skip the build and install the app directly from the [APK folder](https://drive.google.com/drive/folders/1hWesLDe2mF_nBRrC_xRRvhxwgpk16bbe?usp=sharing).
 
 **Firebase setup:** the app uses Firebase Authentication and Cloud Firestore. To run it against your own Firebase project, create one, enable **Email/Password** sign-in and **Firestore**, then replace `app/google-services.json` with your own file.
 
