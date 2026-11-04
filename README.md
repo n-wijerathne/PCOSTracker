@@ -92,12 +92,6 @@ Kotlin · Android Activities and Intents · Firebase Authentication · Cloud Fir
 
 ---
 
-## 📱 Screenshots
-
-| Login | Personal Information | Privacy Policy | Settings |
-|:---:|:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Profile](screenshots/personal_info.png) | ![Privacy](screenshots/privacy_policy.png) | ![Settings](screenshots/settings.png) |
-
 ## 📂 Project Structure
 
 ```
