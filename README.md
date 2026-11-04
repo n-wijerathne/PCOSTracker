@@ -19,7 +19,7 @@ Built as the group mini project for **IT31043 – Mobile Application Development
 | 🎨 **Figma Prototype** | [View the interactive prototype](https://www.figma.com/proto/VGDCrvrkN8t0AcnIZeKjVt/PCOS-Tracker?node-id=90-4275&starting-point-node-id=90%3A4275&show-proto-sidebar=1&t=V5aQYcnyCktFcAhC-1) |
 | 📦 **APK File** | [Download from Google Drive](https://drive.google.com/drive/folders/1hWesLDe2mF_nBRrC_xRRvhxwgpk16bbe?usp=sharing) |
 | 🎥 **Demo Video** | [Watch on Google Drive](https://drive.google.com/drive/folders/1vFheqgqvsqCZLoP59NnT7jPuzTiXiUFM?usp=sharing) |
-| 💻 **GitHub Repository** | [savindirathwella333-create/PCOSTracker](https://github.com/savindirathwella333-create/PCOSTracker) |
+| 💻 **GitHub Repository** | [savindirathwella333-create/PCOSTracker]([https://github.com/savindirathwella333-create/PCOSTracker](https://github.com/n-wijerathne/PCOSTracker.git)) |
 
 ---
 
